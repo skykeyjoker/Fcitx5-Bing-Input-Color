@@ -1,2 +1,12 @@
-# Fcitx5-Bing-Input-Color
-一款模仿Windows10 2004自带浅色输入法的Fcitx5皮肤
+# Bing-Input-Color
+
+该Fcitx5主题设计思路源自Win10 2004更新后的自带的输入法，旨在模仿其UI。
+
+
+
+## 使用方式
+
+### 安装
+
+#### 手动安装
+
