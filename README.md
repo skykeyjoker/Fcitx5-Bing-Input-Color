@@ -141,7 +141,7 @@ PreeditInApplication=True
 
 ### Bright-Orange
 
-![](/home/skykey/Desktop/新建文件夹/Screenshot_Bright-Orange.png)
+![](screenshots/Screenshot_Bright-Orange.png)
 
 ---
 
